@@ -25,7 +25,7 @@ The project has its backend done using Django. We have used *django-admin startp
 
 The tasks app is used to list all the tasks and get the post from the user and query them into the database. Label app is used to provide label to the task. Statuses app is used to show the status of the respective task. Either completed or incomplete. The user can add more status in the status section. Users app is used to manage all the users in the system. As of now every user can update each and every tasks. From the next release we are planning to focus more on users and their activity control.
 
-<li><strong>Video Content</strong></li>
+<li><strong>[Video Content](https://youtu.be/zj7c3AN5rrs)</strong></li>
 
 </ol>
 
@@ -38,6 +38,7 @@ The tasks app is used to list all the tasks and get the post from the user and q
 ## How To Configure
 <ol>
     <li>Install python from https://python.org</li>
+    <li>Create a virual environment using *python -m venv env*</li>
     <li>Install required modules by using the command <strong>pip install -r requirements.txt</strong></li>
 </ol>
 
