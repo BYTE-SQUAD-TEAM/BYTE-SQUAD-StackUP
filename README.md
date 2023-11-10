@@ -35,7 +35,7 @@ The tasks app is used to list all the tasks and get the post from the user and q
 
 ## How To Configure
 <ol>
-    <li>Install python from (https://python.org)</li>
+    <li>Install python from https://python.org</li>
     <li>Install required modules by using the command <strong>pip install -r requirements.txt</strong></li>
 </ol>
 
