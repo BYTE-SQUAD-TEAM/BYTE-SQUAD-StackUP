@@ -11,7 +11,7 @@ This project is done using a python framework called django. This project aims a
 
 [ALEN T L](https://github.com/ALENTL)
 
-## Link to product walkthrough
+## [Link to product walkthrough](./demo/task_management_demo-2023-11-10_23.38.39.mkv)
 
 ## How it works
 
