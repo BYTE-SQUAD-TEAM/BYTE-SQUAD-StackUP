@@ -4,21 +4,28 @@ This project is done using a python framework called django. This project aims a
 
 ## TEAM MEMBERS
 [ARJUN SHIJU]
+
 [ALLEN JUDE](https://github.com/ajallen14)
+
 [JOE SUNIL](https://github.com/kuttanerror)
+
 [ALEN T L](https://github.com/ALENTL)
 
 ## Link to product walkthrough
 
 ## How it works
 
-### Explanation
+<ol>
+
+<li>Explanation</li>
 
 The project has its backend done using Django. We have used *django-admin startproject task_manager* to create the project. We have 4 apps in the project namely *labels*, *statuses*, *tasks* and *uses*.
 
 The tasks app is used to list all the tasks and get the post from the user and query them into the database. Label app is used to provide label to the task. Statuses app is used to show the status of the respective task. Either completed or incomplete. The user can add more status in the status section. Users app is used to manage all the users in the system. As of now every user can update each and every tasks. From the next release we are planning to focus more on users and their activity control.
 
-### Video Content
+<li>Video Content</li>
+
+</ol>
 
 
 ## Libraries Used
