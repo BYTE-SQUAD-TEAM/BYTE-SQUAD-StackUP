@@ -3,7 +3,7 @@
 This project is done using a python framework called django. This project aims at a task management project where users can create account, sign in and create their respective tasks. They can also edit other's tasks, but can't delete. Only the owners of the task can delete such a task. We have used MySQL as the SQL client.
 
 ## TEAM MEMBERS
-[ARJUN SHIJU]
+[ARJUN SHIJU](https://github.com/Godly-arj)
 
 [ALLEN JUDE](https://github.com/ajallen14)
 
