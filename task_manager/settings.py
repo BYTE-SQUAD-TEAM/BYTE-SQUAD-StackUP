@@ -164,9 +164,9 @@ LANGUAGES = (
     ('en', 'English'),
 )
 
-LOCALE_PATHS = (
+"""LOCALE_PATHS = (
     './locale/',
-)
+)"""
 
 
 # Static files (CSS, JavaScript, Images)

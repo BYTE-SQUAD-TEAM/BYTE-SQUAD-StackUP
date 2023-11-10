@@ -15,7 +15,7 @@ from task_manager.users.models import User
 from task_manager.tasks.constants import \
     TEMPLATE_CREATE, TEMPLATE_LIST, TEMPLATE_UPDATE, TEMPLATE_DELETE, TEMPLATE_DETAIL, \
     REVERSE_TASKS, REVERSE_CREATE, UPDATE_TASK, DELETE_TASK, DETAIL_TASK, \
-    MSG_NOT_AUTHOR_FOR_DELETE_TASK
+    MSG_NOT_AUTHOR_FOR_DELETE_TASK, MSG_NOT_AUTHOR_FOR_UPDATE_TASK
 from task_manager.statuses.constants import \
     REVERSE_STATUSES, DELETE_STATUS, STATUS_USED_IN_TASK
 from task_manager.labels.constants import \
